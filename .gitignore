@@ -1,0 +1,8 @@
+# VS Code folder
+.vscode
+
+# Compiled code
+*.o
+
+# Executable files
+*.exe
